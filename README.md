@@ -144,10 +144,10 @@ React.js, Node.js, Express.js, MongoDB, Redux, TailwindCSS, JWT, Cloudinary
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href=" https://linkedin.com/in/youssef-boughanmi-4990222a0 ">
+  <a href="https://linkedin.com/in/youssef-boughanmi-4990222a0 ">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href=" https://github.com/boughanmiyoussef ">
+  <a href="https://github.com/boughanmiyoussef">
     <img src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="mailto:yussefboughanmy@gmail.com">
