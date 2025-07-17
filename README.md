@@ -95,7 +95,7 @@ Currently working on:
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src=" https://github-readme-activity-graph.vercel.app/graph?username=boughanmiyoussef&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boughanmiyoussef&theme=tokyonight" alt="GitHub Contribution Graph" />
 </p>
 
 ---
