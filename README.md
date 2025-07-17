@@ -17,14 +17,13 @@
 ---
 
 ## 🛠️ Tech I Work With
-
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src=" https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src=" https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-  <img src=" https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src=" https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src=" https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
   <img src=" https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
   <img src=" https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src=" https://img.shields.io/badge/Redux-59323C?logo=redux&logoColor=white" />
