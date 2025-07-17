@@ -45,6 +45,10 @@
 > 🔄 _Every time you reload my README, you might see a new fun fact._  
 > _(Well... you would if this was a webpage with JS 😄)_
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Youssef+Boughanmi;Coffee+is+my+debugger.;I+trained+a+cat+recognizer+that+failed.;Android+>+iOS.+Change+my+mind.;I+wrote+my+first+Hello+World+in+Python.;AI+should+help,+not+replace+humans.;Geek+is+my+middle+name.;Dark+mode+is+life.&center=true&size=20" />
+</h1>
+
 #### 🧊 Some Real Ones:
 - 🧪 I once trained a neural net to recognize cats... and it failed miserably 😂
 - 🧑‍💻 I wrote my first "Hello World" in Python… then never looked back.
@@ -100,8 +104,7 @@ Currently working on:
 ## 🌍 Where My Visitors Are From
 
 <p align="center">
-  <img src="https://github-readme-activity.vercel.app/svg?username=boughanmiyoussef&mode=map&theme=tokyonight" alt="Visitor Map" width="300" /><br/>
-  <em>Welcome, wherever you’re from! 🌐</em>
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=fe7c1c&style=flat" alt="Profile Views" />
 </p>
 
 ---
