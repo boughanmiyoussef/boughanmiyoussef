@@ -19,7 +19,7 @@
 ## 🛠️ Tech I Work With
 
 <p align="center">
-  <img src=" https://skillicons.dev/icons?i=js,py,c,react,nodejs,express,mongodb,mysql,redux,tailwind,html,css,git,github,postman,docker,tensorflow,keras,vscode" />
+  <img src=" https://skillicons.dev/icons?i=js,py,react,nodejs,docker,git,github,python,tensorflow" />
 </p>
 
 ---
