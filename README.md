@@ -19,7 +19,25 @@
 ## 🛠️ Tech I Work With
 
 <p align="center">
-  <img src="https://animoicons.vercel.app/api/icons?list=js,py,c,react,nodejs,express,mongodb,mysql,redux,tailwind,html,css,git,github,postman,docker,tensorflow,keras,vscode" />
+  <img src=" https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src=" https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src=" https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
+  <img src=" https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src=" https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src=" https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img src=" https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" />
+  <img src=" https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src=" https://img.shields.io/badge/Redux-59323C?logo=redux&logoColor=white" />
+  <img src=" https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white" />
+  <img src=" https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src=" https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src=" https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src=" https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src=" https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+  <img src=" https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src=" https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src=" https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+  <img src=" https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
