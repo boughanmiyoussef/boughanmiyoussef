@@ -67,7 +67,7 @@
 ### ⚡ High-Energy Coder Mode
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQzbDE2NGRtMmNzYWR2aTA5cm51NGt2YnZ4eDM5eHJreThuMXdieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif " width="300" alt="Hyper Coder Vibe" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhvMGg2djdrb29vcWU4eWxzY2tsdmRyYmJnbzYxY25hdXlrYzRjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Hyper Coder Vibe" />
 </p>
 
 ---
