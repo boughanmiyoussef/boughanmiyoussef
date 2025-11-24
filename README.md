@@ -68,7 +68,7 @@ Every commit pushes me closer to becoming a world-class AI engineer.
 | **AI/ML**       | TensorFlow, Keras, Scikit-learn, NumPy, Pandas |
 | **Databases**   | MongoDB, MySQL |
 | **DevOps**      | Docker, Git, Linux |
-| **Tools**       | VSCode, Postman, Figma |
+| **Tools**       | VSCode, Postman |
 
 ---
 
@@ -158,14 +158,6 @@ Every commit pushes me closer to becoming a world-class AI engineer.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=boughanmiyoussef&theme=tokyonight" />
-</p>
-
----
-
-## 🌍 Where My Visitors Are From
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=boughanmiyoussef&label=Profile%20views&color=fe7c1c&style=flat" />
 </p>
 
 ---
