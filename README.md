@@ -1,94 +1,155 @@
-# <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Youssef+Boughanmi;Software+Engineer+in+AI+&+ML;Lifelong+Learner+&+Tech+Explorer;Welcome+to+my+GitHub!&center=true&size=24" /></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+I'm+Youssef+Boughanmi;Software+Engineer+in+AI+%26+ML;Lifelong+Learner+%26+Tech+Explorer;Welcome+to+my+GitHub!&center=true&size=24" />
+</h1>
 
 <p align="center">
-  <img src=" https://komarev.com/ghpvc/?username=boughanmiyoussef&label=Profile+Views&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=boughanmiyoussef&label=Profile+Views&color=blueviolet&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineer @ Holberton School Tunis (AI/ML specialization)  
-- 🧠 Passionate about building intelligent systems & learning deeply  
-- 🌱 Currently exploring: Deep Learning, Docker, Clean Architecture  
-- 📚 Always learning & growing — one commit at a time  
-- 📫 Reach me at: [yussefboughanmy@gmail.com](mailto:yussefboughanmy@gmail.com)
+- 🎓 Software Engineer @ **Holberton School Tunis** (AI/ML specialization)  
+- 🧠 Passionate about building intelligent systems & solving real-world problems  
+- 🌱 Currently exploring **Deep Learning, Docker, and Clean Architecture**  
+- 🔍 Interested in scalable backend systems & AI deployment  
+- 📚 Continuous learner — one commit at a time  
+- 📫 Contact me: **[yussefboughanmy@gmail.com](mailto:yussefboughanmy@gmail.com)**  
 
 ---
 
-## 🛠️ Tech I Work With
+## 🎯 My Mission
+
+To build intelligent, reliable, and human-centered software.  
+I love creating systems that scale, models that work in production,  
+and experiences that genuinely help people.  
+Every commit pushes me closer to becoming a world-class AI engineer.
+
+---
+
+## 💡 Core Strengths
+
+- Strong problem-solving mindset  
+- Fast learner with curiosity-driven motivation  
+- Solid AI/ML foundation and hands-on applied practice  
+- Clean, modular, maintainable code style  
+- Effective communicator & team collaborator  
+- Full-stack ability: from backend architecture to frontend UI  
+
+---
+
+## 📐 Engineering Principles I Follow
+
+- Write code for humans first, machines second  
+- Consistency > cleverness  
+- If it’s not scalable, it won’t survive  
+- Document as you go  
+- Test early, optimize later  
+- Learn → Build → Break → Fix → Grow  
+
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,python,react,nodejs,express,mongodb,mysql,redux,tailwindcss,html,css,git,github,docker,tensorflow,keras,vscode," />
+  <img src="https://skillicons.dev/icons?i=c,python,js,react,nodejs,express,mongodb,mysql,redux,tailwindcss,html,css,git,github,docker,tensorflow,keras,vscode" />
 </p>
+
+---
+
+## 🧭 Skills Summary
+
+| Category        | Skills |
+|-----------------|--------|
+| **Languages**   | Python, JavaScript, C |
+| **Frontend**    | React, Redux, TailwindCSS |
+| **Backend**     | Node.js, Express, REST APIs |
+| **AI/ML**       | TensorFlow, Keras, Scikit-learn, NumPy, Pandas |
+| **Databases**   | MongoDB, MySQL |
+| **DevOps**      | Docker, Git, Linux |
+| **Tools**       | VSCode, Postman, Figma |
+
+---
 
 ## 🌱 Currently Learning
 
-- 🔍 Deep Learning with TensorFlow & Keras  
-- 🐳 Containerization with Docker  
-- 🧼 Clean Code & Scalable Backend Design  
-- 💬 Improving soft skills: communication & teamwork
+- 🧠 Deep Learning with TensorFlow/Keras  
+- 🐳 Docker & container orchestration  
+- 🧼 Clean Architecture principles  
+- 🗣️ Communication & teamwork skills  
 
 ---
 
-## 🎲 A Little Fun
+<details>
+<summary><h2>🎲 A Little Fun (click to expand)</h2></summary>
 
-### 🧠 My Dev Personality:
+### 🧠 My Dev Personality
 
-- ☕ Coffee? Yes, always.
-- 🐱 Cat person? Absolutely.
-- 🎧 Headphones or speakers? Always headphones — focus mode activated.
-- 📱 Android or iOS? Android for life.
-- 💻 Dark or light mode? Dark mode all the way.
+- ☕ Coffee? Always.  
+- 🐱 Cat person? Absolutely.  
+- 🎧 Headphones always on — focus mode 🔛  
+- 📱 Android > iOS (fight me 😄)  
+- 🖥️ Dark mode all day.
 
-### 🤯 Did You Know?
+### 🤯 Fun Facts
 
-> 🔄 _Every time you reload my README, you might see a new fun fact._  
-> _(Well... you would if this was a webpage with JS 😄)_
+- 🧪 Trained a neural net to recognize cats… it failed miserably 😂  
+- 🧑‍💻 First “Hello World” was Python — instant love.  
+- 🧋 Coffee = debugging fuel  
+- 🤖 AI should **amplify**, not replace humans  
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+Youssef+Boughanmi;Coffee+is+my+debugger.;I+trained+a+cat+recognizer+that+failed.;Android+>+iOS.+Change+my+mind.;I+wrote+my+first+Hello+World+in+Python.;AI+should+help,+not+replace+humans.;Geek+is+my+middle+name.;Dark+mode+is+life.&center=true&size=20" />
-</h1>
-
-#### 🧊 Some Real Ones:
-- 🧪 I once trained a neural net to recognize cats... and it failed miserably 😂
-- 🧑‍💻 I wrote my first "Hello World" in Python… then never looked back.
-- 🕹️ My favorite debugging tool is... coffee 🧋
-- 🤖 I believe AI should help people — not replace them.
-
----
-
-### 🤖 Nerdy AI Vibes
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Coffee+is+my+debugger.;I+trained+a+cat+recognizer+that+failed.;Android+%3E+iOS.;My+first+Hello+World+was+Python.;AI+should+help+humans.;Dark+mode+is+life.&center=true&size=20" />
+</h3>
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN251dWZidjhxaDIweG53MDVzcDQ1enoyYWc4Znk4NTNscWpoemlpYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5k5vZwRFZR5aZeniqb/giphy.gif" width="300" alt="AI Thinking GIF" />
+  <img src="https://media0.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="300" />
 </p>
-
----
-
-### ⚡ High-Energy Coder Mode
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhvMGg2djdrb29vcWU4eWxzY2tsdmRyYmJnbzYxY25hdXlrYzRjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300" alt="Hyper Coder Vibe" />
+  <img src="https://media1.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="300" />
 </p>
+
+</details>
 
 ---
 
 ## 🎯 What I’m Up To
 
-Currently working on:
-- 🧠 Building ML models for real-world datasets  
-- 📦 Containerizing apps with Docker for better scalability  
-- 🧱 Learning clean architecture for scalable backend systems
+- 🧠 Training ML models for real-world tasks  
+- 📦 Containerizing apps using Docker  
+- 🧱 Learning Clean Architecture for scalable systems  
+- 🚀 Building full-stack applications to sharpen engineering skills  
+
+---
+
+## 🗺️ 2026 Plan
+
+- Deploy and monitor ML models at scale  
+- Explore Go or Rust for backend performance  
+- Master Docker Compose & Kubernetes basics  
+- Contribute to open-source AI tools  
+- Build an AI-powered productivity assistant  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boughanmiyoussef&show_icons=true&theme=tokyonight" /><br/>
-  <img src=" https://github-readme-streak-stats.herokuapp.com ?user=boughanmiyoussef&theme=tokyonight" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=boughanmiyoussef&show_icons=true&theme=tokyonight" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boughanmiyoussef&theme=tokyonight" />
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boughanmiyoussef&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=boughanmiyoussef&theme=tokyonight&no-frame=true&margin-w=5" />
 </p>
 
 ---
@@ -96,7 +157,7 @@ Currently working on:
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boughanmiyoussef&theme=tokyonight" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boughanmiyoussef&theme=tokyonight" />
 </p>
 
 ---
@@ -104,58 +165,62 @@ Currently working on:
 ## 🌍 Where My Visitors Are From
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=fe7c1c&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=boughanmiyoussef&label=Profile%20views&color=fe7c1c&style=flat" />
 </p>
 
 ---
 
-## 📦 Projects Showcase
+# 📦 Projects Showcase
 
-Here are a few of my favorite projects:
+## 🚀 Pinned Projects
+
+🔹 **ShopEase – MERN E-commerce Platform**  
+🔹 **C Shell Interpreter (Holberton Project)**  
 
 ---
 
-## 🧩 Featured Project – First Year
-
-📅 **12/2024 – 03/2025**
+## 🧩 Featured Project – First Year (2024–2025)
 
 ### 💼 ShopEase E-commerce Platform
-
-A fully responsive MERN stack e-commerce application allowing users to browse, search, and purchase products seamlessly. Admins can manage inventory and track orders in real-time.
+A fully responsive MERN stack e-commerce application allowing users to browse, search, and purchase products seamlessly.  
+Admins can manage inventory, track orders, and control the system in real time.
 
 #### 🔍 Key Features
+- 🛒 Guest checkout & persistent cart merge  
+- 🔍 Advanced filtering (category, price, tags)  
+- 👤 Role-based permissions (User/Admin)  
+- 💰 PayPal-integrated payments  
+- 📊 Real-time admin dashboard  
 
-- 🛒 Guest checkout & persistent cart merging upon login  
-- 🔍 Product filtering by category, price range, and tags  
-- 👤 Role-based access control (User / Admin)  
-- 💰 PayPal-integrated payment system  
-- 📊 Real-time order tracking dashboard  
-
-#### 🛠️ Technologies Used
-
+#### 🛠️ Tech Stack  
 React.js, Node.js, Express.js, MongoDB, Redux, TailwindCSS, JWT, Cloudinary
 
-<div align="center">
-  <sub>📚 Still learning and growing — more projects coming soon!</sub>
-</div>
+---
+
+## 📢 Open To
+
+- ML/AI internships  
+- Backend engineering roles  
+- Freelance or collaborative AI projects  
+- Research projects involving Deep Learning  
 
 ---
 
 ## 📫 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/youssef-boughanmi-4990222a0 ">
+  <a href="https://linkedin.com/in/youssef-boughanmi-4990222a0">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://github.com/boughanmiyoussef">
     <img src="https://img.shields.io/badge/GitHub-333?style=flat-square&logo=github&logoColor=white" />
   </a>
-<a href="mailto:yussefboughanmy@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:yussefboughanmy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-🧠 Keep learning. Keep shipping. Keep smiling 😄  
+🧠 **Keep learning. Keep shipping. Keep smiling.**  
 💙 Made with ❤️ by **Youssef Boughanmi**
