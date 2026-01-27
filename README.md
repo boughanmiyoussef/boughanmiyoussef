@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Youssef+Boughanmi;AI+%26+Machine+Learning+Engineer;Full-Stack+Software+Engineer;Building+Intelligent%2C+Scalable+Systems" />
 </h1>
@@ -158,4 +157,3 @@ Every project I build aims to solve real problems with long-term impact.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=90&section=footer" />
 </p>
-```
