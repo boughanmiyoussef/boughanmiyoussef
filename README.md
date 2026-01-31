@@ -21,8 +21,8 @@
 
 ## 👋 About Me
 
-I’m **Youssef Boughanmi**, a **Software Engineer – Specialization in Machine Learning** with strong **full-stack engineering** foundations.  
-I specialize in building **end-to-end intelligent systems** — from data and models to scalable APIs and clean user interfaces.
+I’m **Youssef Boughanmi**, a **Software Engineer with Specialization in Machine Learning**  
+I specialize in building **end-to-end intelligent systems** from data and models to scalable APIs and clean user interfaces.
 
 My focus is on:
 - **Production-ready machine learning**
@@ -77,13 +77,6 @@ My focus is on:
 
 **Tech:** React, Redux, Node.js, Express, MongoDB  
 **Status:** Completed
-
----
-
-### 🌐 Personal Portfolio
-Professional portfolio website with integrated contact system.  
-**Tech:** HTML, CSS, JavaScript, EmailJS  
-**Status:** Live
 
 ---
 
