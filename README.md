@@ -99,20 +99,6 @@ My focus is on:
 **2022 – 2024** -->
 
 ---
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boughanmiyoussef&show_icons=true&theme=tokyonight&hide_border=true" width="420" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boughanmiyoussef&theme=tokyonight&hide_border=true" width="420" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=boughanmiyoussef&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🗺️ Vision & Roadmap
 
 ```mermaid
